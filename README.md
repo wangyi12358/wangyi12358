@@ -1,7 +1,7 @@
 ### Hi there, I'm Wang Yi 👋
 
 - 📫 How to reach me: wangmikayi@gmail.com
-- 🌱 I’m currently learning Go、React、Nodejs
+- 🌱 My current technology stack Go、React、Nodejs
 
 I am currently looking for a job. If you have any recommendations, please contact me. Thank you
 
