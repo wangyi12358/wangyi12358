@@ -1,9 +1,9 @@
 ### Hi there, I'm Wang Yi 👋
 
-- 📫 How to reach me: wangmikayi@gmail.com
-- 🌱 My current technology stack Go、React、Nodejs
+- 📫 How to reach me: wangmikayi@gmail.com.
+- 🌱 My current technology stack Go, React, TypeScript and Nodejs.
 
-I am currently looking for a job. If you have any recommendations, please contact me. Thank you
+I am currently looking for a job. If you have any recommendations, please contact me. Thank you.
 
 <!--
 **wangyi12358/wangyi12358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
