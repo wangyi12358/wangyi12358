@@ -9,7 +9,6 @@ I am currently looking for a job. If you have any recommendations, please contac
 **wangyi12358/wangyi12358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Go、React、Nodejs
 - 👯 I’m looking to collaborate on ...
