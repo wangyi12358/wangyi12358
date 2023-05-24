@@ -7,6 +7,16 @@ I am a full stack engineer. I love coding, stravel, ports and basketball.
 
 I am currently looking for a job. If you have any recommendations, please contact me. Thank you.
 
+I have the following skills:
+
+**Frontend**
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
 <!--
 **wangyi12358/wangyi12358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
