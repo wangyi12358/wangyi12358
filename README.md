@@ -1,5 +1,7 @@
 ### Hi there, I'm Wang Yi 👋
 
+I am a full stack engineer. I love coding, stravel, ports and basketball.
+
 - 📫 How to reach me: wangmikayi@gmail.com.
 - 🌱 My current technology stack Go, React, TypeScript and Nodejs.
 
