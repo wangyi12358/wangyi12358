@@ -33,6 +33,8 @@ I have the following skills:
 **Database**
 <p>
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-4169e1?style=flat-square&logo=Postgresql&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479a1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 </p>
 
 **DevOps**
