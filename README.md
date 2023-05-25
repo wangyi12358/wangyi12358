@@ -18,6 +18,7 @@ I have the following skills:
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=white" />
 </p>
 
 **Backend**
