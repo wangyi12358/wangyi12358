@@ -5,7 +5,9 @@ I am a full stack engineer. I love coding, stravel, ports and basketball.
 - 📫 How to reach me: wangmikayi@gmail.com.
 - 🌱 My current technology stack Go, React, TypeScript and Nodejs.
 
-I am currently looking for a job. If you have any recommendations, please contact me. Thank you.
+> Hey, I am currently looking for a job. If you have any recommendations, please contact me. Thank you.
+> 
+> 嘿，我目前正在找工作。 如果您有任何建议，请与我联系。 谢谢。
 
 I have the following skills:
 
@@ -18,7 +20,10 @@ I have the following skills:
 </p>
 
 **Backend**
-
+<p>
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 **DevOps**
 
