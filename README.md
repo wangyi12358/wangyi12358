@@ -26,6 +26,8 @@ I have the following skills:
   <img alt="Go" src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231f20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 **Database**
