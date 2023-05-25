@@ -17,6 +17,16 @@ I have the following skills:
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
+**Backend**
+
+
+**DevOps**
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+</p>
+
 <!--
 **wangyi12358/wangyi12358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
