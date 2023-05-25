@@ -46,6 +46,11 @@ I have the following skills:
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+**Environment**
+<p>
+  <img alt="Macos" src="https://img.shields.io/badge/-Macos-000000?style=flat-square&logo=macos&logoColor=white" />
+</p>
+
 <!--
 **wangyi12358/wangyi12358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
