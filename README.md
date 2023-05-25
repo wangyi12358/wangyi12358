@@ -48,7 +48,7 @@ I have the following skills:
 
 **Environment**
 <p>
-  <img alt="Macos" src="https://img.shields.io/badge/-Macos-000000?style=flat-square&logo=macos&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white" />
 </p>
 
 <!--
