@@ -1,14 +1,16 @@
 ### Hi there, I'm Mika Wang 👋
 
-I am a full stack engineer. I love coding, stravel, ports and basketball. Likes exploring unknown fields.
+I am a full stack engineer. I love coding, stravel, ports and basketball🏀. Likes exploring unknown fields.
+
+I like sing, jump, rap and basketball 😜.
 
 - 📫 How to reach me: wangmikayi@gmail.com.
 - 🌱 My current technology stack Go, React, TypeScript and Nodejs.
 - 💬 Ask me about anything [here](https://github.com/wangyi12358/wangyi12358/issues)
 
-> Hey, I am currently looking for a job. If you have any recommendations, please contact me. Thank you.
+> Hey, I am currently looking for a job. If you have any recommendations, please contact me. Thank you.🌹
 > 
-> 嘿，我目前正在找工作。 如果您有任何建议，请与我联系。 谢谢。
+> 嘿，我目前正在找工作。 如果您有任何建议，请与我联系。 谢谢。🌹
 
 I have the following skills:
 
