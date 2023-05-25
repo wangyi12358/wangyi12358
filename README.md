@@ -1,9 +1,10 @@
-### Hi there, I'm Wang Yi 👋
+### Hi there, I'm Mika Wang 👋
 
-I am a full stack engineer. I love coding, stravel, ports and basketball.
+I am a full stack engineer. I love coding, stravel, ports and basketball. Likes exploring unknown fields.
 
 - 📫 How to reach me: wangmikayi@gmail.com.
 - 🌱 My current technology stack Go, React, TypeScript and Nodejs.
+- 💬 Ask me about anything [here](https://github.com/wangyi12358/wangyi12358/issues)
 
 > Hey, I am currently looking for a job. If you have any recommendations, please contact me. Thank you.
 > 
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go、React、Nodejs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about [anything here](https://github.com/wangyi12358/wangyi12358/issues)
 - 📫 How to reach me: wangmikayi@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
