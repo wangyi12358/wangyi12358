@@ -21,15 +21,23 @@ I have the following skills:
 
 **Backend**
 <p>
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+**Database**
+<p>
+  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-4169e1?style=flat-square&logo=Postgresql&logoColor=white" />
 </p>
 
 **DevOps**
 
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-d24939?style=flat-square&logo=Jenkins&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 <!--
