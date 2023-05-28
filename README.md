@@ -23,7 +23,6 @@ I have the following skills:
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white" />
   <img alt="Antd" src="https://img.shields.io/badge/-Antd-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
   <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-f69220?style=flat-square&logo=pnpm&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -68,6 +67,15 @@ I have the following skills:
   <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
   <img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
   <img alt="Warp" src="https://img.shields.io/badge/-Warp-01A4FF?style=flat-square&logo=warp&logoColor=white" />
+</p>
+
+**Archived**
+
+<p>
+  <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
+  <img alt="Lerna" src="https://img.shields.io/badge/-Lerna-9333EA?style=flat-square&logo=lerna&logoColor=white" />
 </p>
 
 <!--
