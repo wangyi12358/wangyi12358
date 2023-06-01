@@ -1,6 +1,6 @@
 ### Hi there, I'm Mika Wang 👋
 
-I'm a full stack engineer. I love coding, stravel, ports and basketball🏀. Likes exploring unknown fields.
+I'm a full stack engineer. I love coding, travel, sports and basketball🏀. Likes exploring unknown fields.
 
 I'm developing my [blog](https://github.com/wangyi12358/blog-fe)
 
