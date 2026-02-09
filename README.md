@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Mika Wang
 
-🚀 **Full Stack Engineer (Backend-oriented) | Go / React / TypeScript**
+[📖 中文版 / 中文](README.zh-CN.md)
+
+🚀 **Full Stack Engineer | Go / React / TypeScript**
 
 I’m a full-stack engineer focused on **scalable systems, clean architecture, and engineering efficiency**.  
 I have experience building products in **cross-border e-commerce, global SaaS, AI Agent systems, and IoT applications**.
@@ -96,10 +98,21 @@ I have experience building products in **cross-border e-commerce, global SaaS, A
 - System architecture & CLI tool development
 
 ### AI / Agent / AIGC
-- AI SDK-based application development
-- AI Agent design & implementation
-- Daily use of Cursor, Copilot, ChatGPT
-- AIGC production with Stable Diffusion + ControlNet
+
+- Experienced in building AI applications using AI SDKs with production-level delivery
+- Strong understanding of **AI Agent design and implementation**
+  - Task planning, tool invocation, and state management
+- Hands-on experience with **RAG (Retrieval-Augmented Generation) architectures**:
+  - Embedding, vector retrieval, and re-ranking
+  - Document chunking, recall strategies, and context construction
+  - Improving LLM accuracy and controllability with private knowledge bases
+- Familiar with **MCP (Model Context Protocol)**:
+  - Designing standardized interactions between models, tools, and resources
+  - Supporting multi-model and multi-tool agent collaboration
+- Practical AIGC implementation in real-world scenarios:
+  - Intelligent Q&A systems, knowledge retrieval, content generation
+  - Controllable image generation using Stable Diffusion + ControlNet
+- Heavy daily use of Cursor, Copilot, and ChatGPT to significantly boost development productivity
 
 ---
 
