@@ -62,7 +62,7 @@ I have experience building products in **cross-border e-commerce, global SaaS, A
 - Backend services & CLI tools
 
 **Go**
-- Gin / Go-zero / Gorm
+- Gin / Go-zero / Ent
 - gRPC-Go
 
 ### Microservices & Concurrency
@@ -99,7 +99,7 @@ I have experience building products in **cross-border e-commerce, global SaaS, A
 
 ### AI / Agent / AIGC
 
-- Experienced in building AI applications using AI SDKs with production-level delivery
+- Experienced in building AI applications using AI SDK, CopilotKit with production-level delivery
 - Strong understanding of **AI Agent design and implementation**
   - Task planning, tool invocation, and state management
 - Hands-on experience with **RAG (Retrieval-Augmented Generation) architectures**:

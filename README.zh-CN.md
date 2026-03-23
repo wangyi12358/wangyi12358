@@ -55,7 +55,7 @@
 - 后端服务与 CLI 工具
 
 **Go**
-- Gin / Go-zero / Gorm
+- Gin / Go-zero / Ent
 - gRPC-Go
 
 ### 微服务与并发
@@ -92,7 +92,7 @@
 
 ### AI / Agent / AIGC
 
-- 熟练使用 AI SDK 构建 AI 应用，具备完整 AI 产品工程化落地经验
+- 熟练使用 AI SDK, CopilotKit 构建 AI 应用，具备完整 AI 产品工程化落地经验
 - 掌握 **AI Agent 的设计与开发流程**（任务规划、工具调用、状态管理）
 - 熟悉 **RAG（Retrieval-Augmented Generation）架构**：
   - 向量化、Embedding、检索与重排序
